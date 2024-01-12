@@ -16,7 +16,7 @@ public class WebappApplication {
 	class HelloController {
 		@GetMapping("/")
 		public String index() {
-			return "Hello, Azure!";
+			return "Welcome, KD 24 Azure Batch!";
 		}
 	}
 }
